@@ -1,0 +1,37 @@
+body {
+    width: 80%;
+    margin: 24px auto 0 auto;
+    font-size: 1.2em;
+    font-family: sans-serif;
+}
+
+code, pre {
+    background: #eee;
+    border-radius: 4px;
+    color: #666;
+    font-family: 'Inconsolata';
+    font-size: 16px;
+}
+
+code {
+    padding: 2px 5px 2px 5px;
+}
+
+pre {
+    padding: 16px;
+}
+
+.social {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.social a > img {
+    width: auto;
+    height: 40px;
+}
+
+pre > code {
+    padding: 0
+}
