@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;700&display=swap');
 
 body {
-    width: 80%;
+    width: 60%;
     margin: 24px auto;
     font-size: 1.2em;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'IBM Plex Sans', sans-serif;
 }
 
 code, pre {
@@ -47,4 +47,24 @@ table img {
     height: 128px;
     border-radius: 100%;
     object-fit: cover;
+}
+
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li:last-child {
+    margin-left: 12px;
+}
+
+nav ul a {
+    text-decoration: none;
+}
+
+nav ul li.current > a {
+    color: black;
 }
