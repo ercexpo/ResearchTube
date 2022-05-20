@@ -2,7 +2,7 @@
 
 body {
     width: 80%;
-    margin: 24px auto 0 auto;
+    margin: 24px auto;
     font-size: 1.2em;
     font-family: 'Roboto', sans-serif;
 }
@@ -40,4 +40,11 @@ pre > code {
 
 table {
     width: 100%;
+}
+
+table img {
+    width: 128px;
+    height: 128px;
+    border-radius: 100%;
+    object-fit: cover;
 }
