@@ -1,4 +1,4 @@
-# Welcome!
+# Welcome to ResearchTube!
 
 I'm Magdalena Wojcieszak, a Professor at UC Davis and an Associate Researcher at the University of Amsterdam. Together with my wonderful Team (see our photos below), we are inviting you to participate in a study that is part of an international research project (ERC EXPO). We want to understand people’s opinions and how they use YouTube. 
 
