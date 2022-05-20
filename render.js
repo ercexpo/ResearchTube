@@ -1,6 +1,5 @@
-async function render(repo, elem) {
-    let readmeMd = `https://raw.githubusercontent.com/${repo}/master/README.md`;
-    let mdReq = await fetch(readmeMd);
+async function render(readmeUrl, elem) {
+    let mdReq = await fetch(readmeUrl);
     let text = await mdReq.text();
 
     let htmlReq = await fetch('https://api.github.com/markdown', {
