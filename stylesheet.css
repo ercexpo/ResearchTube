@@ -67,4 +67,5 @@ nav ul a {
 
 nav ul li.current > a {
     color: black;
+    text-decoration: underline;
 }
