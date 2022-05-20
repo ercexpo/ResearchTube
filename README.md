@@ -32,7 +32,7 @@ We are also on Twitter @ERCEXPO and under our individual handles (see below)
 
 # Authors
 
-| <img src="/img/haroon.jpg" width="128" alt="Muhammad Haroon"> | <img src="/img/ericka.jpg" width="128" alt="Ericka Menchen-Trevino"> | <img src="/img/bernhard.png" width="128" alt="Bernhard Clemm"> | <img src="/img/xudong.jpg" width="128" alt="Xudong Yu"> | <img src="/img/michael.jpg" width="128" alt="Michael Heseltine"> | <img src="/img/magdalena.jpg" width="128" alt="Magdalena Wojcieszak"> |
+| <img src="img/haroon.jpg" width="128" alt="Muhammad Haroon"> | <img src="img/ericka.jpg" width="128" alt="Ericka Menchen-Trevino"> | <img src="img/bernhard.png" width="128" alt="Bernhard Clemm"> | <img src="img/xudong.jpg" width="128" alt="Xudong Yu"> | <img src="img/michael.jpg" width="128" alt="Michael Heseltine"> | <img src="img/magdalena.jpg" width="128" alt="Magdalena Wojcieszak"> |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 |Muhammad Haroon | Ericka Menchen-Trevino | Bernhard Clemm | Xudong Yu | Michael Heseltine | Magdalena Wojcieszak |
 | [@mharoon_](https://twitter.com/mharoon_) | [@erickaakcire](https://twitter.com/erickaakcire) | [@BernhardClemm](https://twitter.com/BernhardClemm) | [@imxudong](https://twitter.com/imxudong) |  | [@mwojcieszak](https://twitter.com/mwojcieszak) |
