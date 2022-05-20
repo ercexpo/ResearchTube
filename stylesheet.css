@@ -37,3 +37,7 @@ pre {
 pre > code {
     padding: 0
 }
+
+table {
+    width: 100%;
+}
