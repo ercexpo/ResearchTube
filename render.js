@@ -11,3 +11,11 @@ async function render(readmeUrl, elem) {
         elem.innerHTML = await htmlReq.text();
     }
 }
+
+window.onload = function () {
+    const params = new URLSearchParams(document.location.search);
+    const userId = params.get("userId");
+
+    const el = document.getElementById("goto");
+    el.setAttribute('href', "https://american.co1.qualtrics.com/jfe/form/SV_3y26s2Lmaqyoxx4?rt_id=" + userId);
+};
