@@ -97,7 +97,7 @@ We will not grant access to the unprocessed personal data. We will only share da
 
 # Children's Privacy
 
-Our Service does not address anyone under the age of 18 We do not knowingly collect personally identifiable information from anyone. 
+Our Service does not address anyone under the age of 18. We do not knowingly collect personally identifiable information from anyone. 
 
 
 # Links to Other Websites
