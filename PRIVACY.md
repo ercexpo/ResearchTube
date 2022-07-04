@@ -74,7 +74,7 @@ The Company will take all steps necessary to ensure that Your data are treated s
 
 ### Law enforcement
 
-Under certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency). This situation is highly unlikely, however. 
+Under certain circumstances, the Project ERC EXPO may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency). This situation is highly unlikely, however. 
 
 ### Other legal requirements
 
