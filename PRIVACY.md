@@ -120,5 +120,3 @@ If you have any questions about this Privacy Policy, You can contact us:
 
 
 - By email: mwojcieszak@ucdavis.edu
-
-![image](https://user-images.githubusercontent.com/48843008/177178101-d48fb1a5-3d04-4ab1-bdb2-fc1d94093cb7.png)
