@@ -18,7 +18,7 @@ To understand how you use YouTube, we ask you to install a web browser extension
 ### Important:
 - We do not collect any other information, only the YouTube videos you watch. Please note that your experience of YouTube may slightly change during these three weeks due to our study. It will not, however, interfere with your ability to use YouTube as usual. 
 - Our extension is not a black-box owned by a company or a corporation. We have created it ourselves at UC Davis and are committed to open-sourcing it at the end of our research. Our project is motivated by transparency, open access, and open research principles.
-- Our research is in accordance with the highest ethical guidelines and standards and has been approved by the Ethical Review Board of the University of Amsterdam and also of the European Research Council. All the information about privacy can be found [here](https://ercexpo.github.io/youtube-news/privacy-policy). 
+- Our research is in accordance with the highest ethical guidelines and standards and has been approved by the Ethical Review Board of the University of Amsterdam and also of the European Research Council. All the information about privacy can be found [here](https://ercexpo.github.io/ResearchTube/privacy-policy/). 
 
 ### How? 
 The study will last 4 weeks. Today, you are asked to install our Chrome extension and complete a short survey (about 5 minutes). In three weeks, we will ask you to complete another short survey (about 5 minutes), and then leave the extension installed for one more week. If you participate, you will receive 5,000 YouGov polling points for installing the Chrome extension and taking the first survey.
