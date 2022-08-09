@@ -18,5 +18,5 @@ window.onload = function () {
     const visaId = params.get("visaId");
 
     const el = document.getElementById("goto");
-    el.setAttribute('href', `https://american.co1.qualtrics.com/jfe/form/SV_3y26s2Lmaqyoxx4?visa=${visaId}&rt_id=${userId}`);
+    el.setAttribute('href', `http://g4-us.yougov.com/ereturn/${visaId}`);
 };
