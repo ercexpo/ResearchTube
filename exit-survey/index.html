@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Chrome Store!!!</title>
+        <title>Privacy Policy | ResearchTube</title>
         <link rel="stylesheet" href="../stylesheet.css">
+        <script src="../render.js"></script>
 
         <link rel="apple-touch-icon" sizes="180x180" href="../favicon/apple-touch-icon.png">
         <link rel="icon" type="image/png" sizes="32x32" href="../favicon/favicon-32x32.png">
@@ -13,6 +14,10 @@
         <meta name="theme-color" content="#ffffff">
     </head>
     <body>
-      <h1>This is a placeholder for the Chrome store webpage. Manually install the extension at this point.</h1>
+        <div id="render"></div>
+        <script>
+            const policyUrl = 'https://raw.githubusercontent.com/ercexpo/youtube-news/main/EXIT.md';
+            render(policyUrl, document.getElementById('render'));
+        </script>
     </body>
 </html>
