@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="img/logo.png" width="152" />
+	<img src="../img/logo.png" width="152" />
 </p>
 <h1 align="center">
     ResearchTube
