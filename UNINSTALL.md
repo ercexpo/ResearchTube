@@ -6,4 +6,4 @@
 </h1>
 
 ## Thank you!
-Thank you for participating in this study.
+The study is now completed. Thank you for participating in this study. The ResearchTube extension is removed from your browser and the ResearchTube tab is closed. If the extention is not automatically removed, you can manually remove it following these [instructions](https://support.google.com/chrome_webstore/answer/2664769?hl=en). If the ResearchTube tab is not closed, you can manually close it by right click the tab and select "close" or simply close the browser window. Thank you again for your participation.
