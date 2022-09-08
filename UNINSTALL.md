@@ -6,7 +6,7 @@
 </h1>
 
 ## Thank you!
-Thank you for participating in the ResearchTube study. You are seeing this page **either** because you manually uninstalled the ResearchTube extension **or** bexause you completed the 4-week ResearchTube study
+Thank you for participating in the ResearchTube study. You are seeing this page **either** because you manually uninstalled the ResearchTube extension **or** bexause you completed the 4-week ResearchTube study.
 
 **1. If you manually uninstalled the ResearchTube extension**
 - You dropped out of the study and data collected from you will be deleted  
