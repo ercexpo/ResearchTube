@@ -17,6 +17,9 @@ window.onload = function () {
     const userId = params.get("userId");
     const visaId = params.get("visaId");
 
-    const el = document.getElementById("goto");
-    el.setAttribute('href', `http://g4-us.yougov.com/ereturn/${visaId}`);
+    if (visaId) {
+        const el = document.getElementById("goto");
+        el.setAttribute('href', `http://g4-us.yougov.com/ereturn/${visaId}`);
+        document.querySelector('.survey-btn').classList.remove('display-none');
+    }
 };

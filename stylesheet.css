@@ -99,3 +99,7 @@ nav ul li.current > a {
     background: #ff5555;
     text-decoration: underline;
 }
+
+.display-none {
+    display: none;
+}
