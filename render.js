@@ -16,10 +16,11 @@ window.onload = function () {
     const params = new URLSearchParams(document.location.search);
     const userId = params.get("userId");
     const visaId = params.get("visaId");
+    const intervention = params.get("intervention");
 
     if (visaId && visaId != "null") {
         const el = document.getElementById("goto");
-        el.setAttribute('href', `http://g4-us.yougov.com/ereturn/${visaId}`);
+        el.setAttribute('href', `http://g4-us.yougov.com/ereturn/${visaId}?tg=${intervention}`);
         document.querySelector('.survey-btn').classList.remove('display-none');
     }
 };
