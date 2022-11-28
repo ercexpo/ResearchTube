@@ -20,7 +20,7 @@ window.onload = function () {
 
     if (visaId && visaId != "null") {
         const el = document.getElementById("goto");
-        el.setAttribute('href', `http://g4-us.yougov.com/ereturn/${visaId}?tg=${intervention}`);
+        el.setAttribute('href', `http://g4-us.yougov.com/ereturn/${visaId}`);
         document.querySelector('.survey-btn').classList.remove('display-none');
     }
 };
